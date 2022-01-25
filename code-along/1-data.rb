@@ -38,3 +38,8 @@ greeting = "Hello, #{first_name}" # string inerpolation
 puts greeting
 
 # String manipulation
+puts "Hello".reverse
+puts "Hello how are you".capitalize
+puts "hello".length
+
+
